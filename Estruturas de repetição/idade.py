@@ -15,4 +15,5 @@ verificar_idade_usuario()
 
 #Anotações
 #int(): serve para converter outros tipos de dados em inteiro.
+#input(): função que permite a entrada de dados por parte dos usuários.
 #and: operador "e" no Python, sendo equivalente aos sinais "&&" em outras linguagens de programação, como C#.
