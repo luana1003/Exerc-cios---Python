@@ -5,5 +5,11 @@ def listar_nomes():
 
     for nome in nomes:
         print(nome)
+        
 
 listar_nomes()
+
+#Anotações:
+#for nome in nomes:
+        #print(nome)
+#Traduzindo a função acima para o português, temos: "para cada nome na lista de nomes, imprima cada nome em sequência".
