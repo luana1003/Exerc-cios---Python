@@ -12,3 +12,7 @@ def verificar_idade_usuario():
         print(f"Adulto: acima de 18 anos, pois sua idade é {idade_usuario} anos")
 
 verificar_idade_usuario()
+
+#Anotações
+#int(): serve para converter outros tipos de dados em inteiro.
+#and: operador "e" no Python, sendo equivalente aos sinais "&&" em outras linguagens de programação, como C#.
